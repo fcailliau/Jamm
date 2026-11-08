@@ -1,8 +1,8 @@
-# Zablurb
+# Jamm
 *Omschrijving van je concept in 1 zin. Bijvoorbeeld: Zablurb (naam van je product), een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren. Dit is de 'value promise', die in 1 sterke zin zegt wat je product doet, duidelijk voor iemand die je project nog niet kende. Voeg deze zelfde omschrijving ook toe aan Github (rechtsboven bij 'about' op het tandwiel klikken).*
 
 
-> 🛠️ Built by `Naam 1` & `Naam 2`  
+> 🛠️ Built by `Ilke Van den Berk` & `Frizien Cailliau`  
 >🔥 Supervised by prof. dr. Bas Baccarne, Yannick Christiaens & Wouter Devriese    
 >🌱 Grown at Ghent University, Belgium 🏛️ Industrial Design Engineering   
 >👥 [Overview of all projects](https://github.com/basbaccarne/human-centered-design)
